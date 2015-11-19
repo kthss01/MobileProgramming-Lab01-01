@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab01-01</string>
+    <string name="hello_world">Hello_World</string>
+    <string name="strTestBtn">Test</string>
+    <string name="strbtnNew">New</string>
+    <string name="strbtnBack">Back</string>
+</resources>
